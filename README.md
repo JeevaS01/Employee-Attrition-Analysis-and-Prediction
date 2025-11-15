@@ -25,20 +25,6 @@ Employee attrition is a major concern for companies. This project focuses on:
 - ✔️ Confusion Matrix Visualization  
 - ✔️ Save trained model using **joblib**  
 
----
-
-## 📂 Folder Structure
-
-│
-├── Dataset/ # Input dataset files
-├── Model Built/ # Trained models & evaluation results
-├── Joblib/ # Saved joblib model files
-├── main.py # Main Python script
-├── icon/ # Icons and assets
-└── README.md # Documentation
-
-
----
 
 ## 🧠 Methodology
 
