@@ -45,7 +45,8 @@ Models used:
 - Logistic Regression  
 - Decision Tree Classifier  
 - Random Forest Classifier  
-- Gradient Boosting Classifier  
+- Gradient Boosting Classifier
+- Light Gradient Boosting Classifier
 
 ### 4️⃣ Model Evaluation
 Metrics analyzed:
