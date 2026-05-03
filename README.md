@@ -13,6 +13,13 @@ Employee attrition is a major concern for companies. This project focuses on:
 - Training machine learning models to predict attrition  
 - Saving and reusing the trained ML model using **joblib**  
 
+## 📌 Project Outputs
+![Dashboard Home](screenshots/p1.jpg)
+
+![Dashboard Home](screenshots/p2.jpg)
+
+![Dashboard Home](screenshots/p3.jpg)
+
 ---
 
 ## 🚀 Features
